@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.env
+*.venv
+venv/
+ENV/
+.envrc
+
+# VS Code
+.vscode/
+
+# Node/Vue
+node_modules/
+dist/
+
+# DB Instances
+instance/
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF/Reports
+*.pdf
+
+# Misc
+*.bak
+*.swp
