@@ -9,6 +9,8 @@ __pycache__/
 venv/
 ENV/
 .envrc
+celerybeat-schedule.dat
+celerybeat-schedule.dir
 
 # VS Code
 .vscode/
